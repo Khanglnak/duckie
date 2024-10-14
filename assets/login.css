@@ -1,0 +1,106 @@
+@import url('https://fonts.googleapis.com/css2?family=Be+Vietnam+Pro:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+.boxsignup{
+    background-color: aliceblue;
+    border-radius: 10px;
+    width: 400px;
+    height: 550px;
+    box-shadow: -5px 0px 27px 11px rgba(0,0,0,0.17);
+    -webkit-box-shadow: -5px 0px 27px 11px rgba(0,0,0,0.17);
+    -moz-box-shadow: -5px 0px 27px 11px rgba(0,0,0,0.17);
+}
+.parentsdangnhap a{
+    text-decoration: none;
+    color: black;
+}
+.alreadyacc a{
+    text-decoration: none;
+    color: black;
+}
+.Box-signup{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.signup{
+    font-size: 36px;
+    margin-left: 44px;
+    margin-top: 33px;
+}
+.alreadyacc{
+    display: flex;
+    margin-left: 148px;
+    margin-top: 12px;
+}
+.login {
+    cursor: pointer;
+    color: green;
+    margin-left: 10px;
+}
+input {
+    border: 3px solid green;
+    border-radius: 9px;
+    width: 300px;
+    height: 42px;
+}
+.thongtin{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 27px;
+    margin-top: 30px;
+}
+.dangnhap{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 3px solid green;
+    border-radius: 9px;
+    margin-top: 31px;
+    width: 300px;
+    height: 42px;
+    background-color: green;
+    cursor: pointer;
+
+}
+.parentsdangnhap{
+    display: flex;
+    justify-content: center;
+}
+.dkdv{
+    text-align: center;
+    width: 300px;
+    height: 42px;
+}
+.DKDV{
+    display: flex;
+    justify-content: center;
+    margin-top: 25px;
+}
+.tick input{
+    width: 20px;
+    height: 20px;
+    margin-left: 20px;
+}
+.boxmailcheck{
+    margin-top: 20px;
+    display: flex;
+    justify-content: center;
+    margin-left: -15px;
+    align-items: center;
+}
+.forgot{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 3px solid green;
+    border-radius: 9px;
+    margin-top: 31px;
+    width: 300px;
+    height: 42px;
+    background-color: rgb(100, 128, 0);
+    cursor: pointer;
+}
+.parentsforgot{
+    display: flex;
+    justify-content: center;
+}
